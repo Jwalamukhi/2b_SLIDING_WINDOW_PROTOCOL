@@ -20,6 +20,8 @@ DEVELOPED BY:JWALAMUKHI S
 REGISTER:212223040079
 
 CLIENT
+
+
 ```
 import socket
 s=socket.socket()
@@ -42,7 +44,11 @@ while True:
 
 ```
 
+
+
 SERVER
+
+
 ```
 import socket 
 s=socket.socket()
@@ -55,6 +61,7 @@ while True:
 ## OUTPUT
 CLIENT
 
+
 ![image](https://github.com/user-attachments/assets/e76c047f-cd53-4c2a-b49a-b9d812703119)
 
 
@@ -62,6 +69,8 @@ CLIENT
 
 
 SERVER
+
+
 
 ![image](https://github.com/user-attachments/assets/719cd7b8-f7dc-4578-a5a7-3ae25344a66b)
 
